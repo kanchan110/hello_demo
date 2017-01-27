@@ -9,6 +9,7 @@ int main()
     while(t--){
         cin>>R >>G >>B;
         cin>>k;
+        //commenting
         if(k==1)
             cout<<k<<"\n";
         else{
